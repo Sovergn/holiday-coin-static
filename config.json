@@ -1,0 +1,12 @@
+{
+  "secret": "a7129f0a3b6216b79b1fab8e564ae968eb7981e90e7f00aff14aaaa10c5fbdbe",
+  "sparkpost": {
+    "endpoint": "https://api.sparkpost.com",
+    "from": "sandbox@sparkpostbox.com",
+    "key": "3341867dead56cfd6d008ef7c917ce3ce9248f06"
+  },
+  "stripe": {
+    "secret": "sk_test_sFsgjsZvz2nwAcDVaYVrt9rT",
+    "key": "pk_test_cQcfj8GqAtWobryPn1Vk6NlA"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "target": "es5",
+    "jsx": "react",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "declaration": false,
+    "noImplicitAny": false,
+    "noImplicitReturns": false,
+    "removeComments": true,
+    "strictNullChecks": false,
+    "rootDir": "src",
+    "outDir": "build/compiled",
+    "lib": [
+      "es6",
+      "es7",
+      "dom",
+      "esnext.asynciterable"
+    ]
+  },
+  "files": [
+    "./node_modules/web3-typescript-typings/index.d.ts"
+  ],
+  "include": [
+    "./src/*",
+    "./src/**/*"
+  ],
+  "exclude": [
+    "build",
+    "node_modules"
+  ]
+}

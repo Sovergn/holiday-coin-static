@@ -615,7 +615,9 @@ color: rgb(255, 255, 255); font-size: 18px;  background-color: rgb(247, 148, 29)
 		padding-top: 40px; padding-bottom: 40px; box-shadow: none; outline-offset: -3px; outline: none; cursor: default; background-image: none; background-color: rgb(89, 163, 252);
 	}
 	.elegant_9 .new_footer_1 {
-		outline-offset: -3px; padding-top: 30px; padding-bottom: 30px; box-shadow: none; outline: none; cursor: default; background-image: none; background-color: rgb(64, 138, 227);
+		outline-offset: -3px; padding-top: 30px; padding-bottom: 30px; box-shadow: none; outline: none; cursor: default; background-image: none;
+		background-color: rgb(64, 138, 227);
+		/*background-color: rgb(64, 227, 153);*/
 	}
 	.elegant_9 .elegant_footer {
 		color: rgb(159, 197, 232); font-size: 14px;  outline: none; cursor: default; background-color: rgba(0, 0, 0, 0);

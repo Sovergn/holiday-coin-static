@@ -25,7 +25,7 @@ export default function loadRoutes (app: any): any {
   });
 
   router.get("*", (req: any, res: any) => {
-    res.render("flatpages_elegant", {
+    res.render("flatpages_elegant_initial", {
       title: "Jesus Coin",
       meta: {
         description: ""

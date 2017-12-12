@@ -1,5 +1,8 @@
 {
   "secret": "a7129f0a3b6216b79b1fab8e564ae968eb7981e90e7f00aff14aaaa10c5fbdbe",
+  "mailchimp": {
+    "key": "09d7c56948d78b3cfe146f83cbdb122e-us17"
+  },
   "sparkpost": {
     "endpoint": "https://api.sparkpost.com",
     "from": "sandbox@sparkpostbox.com",

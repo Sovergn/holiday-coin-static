@@ -555,6 +555,7 @@ color: rgb(255, 255, 255); font-size: 18px;  background-color: rgb(247, 148, 29)
 
 	.elegant_2 .page_style {
 		padding-top: 0px; padding-bottom: 0px; box-shadow: none; outline-offset: -3px; outline: none; cursor: default; background-image: url(../images/18_elegant/Hero-Header.png); background-color: rgb(89, 163, 252);
+		box-shadow: 0 -3px rgba(0,0,0,0.15) inset;
 	}
 	.elegant_2 .green_segment {
 		background: #fff;
@@ -575,10 +576,10 @@ color: rgb(255, 255, 255); font-size: 18px;  background-color: rgb(247, 148, 29)
 		color: rgb(207, 226, 243); font-size: 16px;
 	}
 	.elegant_3 {
-		padding-top: 0px; padding-bottom: 0px; box-shadow: none; outline-offset: -3px; outline: none; cursor: default; background-image: none; background-color: rgb(246, 246, 246);
+		padding-top: 0px; padding-bottom: 20px; box-shadow: none; outline-offset: -3px; outline: none; cursor: default; background-image: none; background-color: rgba(0, 0, 0, 0);
 	}
 	.elegant_4 {
-		padding-top: 20px; padding-bottom: 20px; box-shadow: none; outline-offset: -3px; background-image: none; background-color: rgba(0, 0, 0, 0);
+		padding-top: 20px; padding-bottom: 20px; box-shadow: none; outline-offset: -3px; background-image: none; background-color: rgb(246, 246, 246);
 	}
 	.elegant_4 .link_3_btn a {
 		background: #59a3fc;
@@ -590,13 +591,13 @@ color: rgb(255, 255, 255); font-size: 18px;  background-color: rgb(247, 148, 29)
 		border-radius: 100%; border: 1px none rgb(68, 68, 68); width: 200px; height: 200px; outline: none; cursor: default;
 	}
 	.elegant_5 .New_Latest_Off {
-		padding-top: 50px; padding-bottom: 50px; box-shadow: none; outline-offset: -3px; background-image: none; background-color: rgb(243, 243, 243);
+		padding-top: 50px; padding-bottom: 50px; box-shadow: none; outline-offset: -3px; background-image: none; background-color: rgba(0, 0, 0, 0);
 	}
 	.elegant_5 .N2_style {
 		color: rgb(153, 153, 153); font-size: 16px; background-color: rgba(0, 0, 0, 0);
 	}
 	.elegant_6 {
-		outline-offset: -3px; padding-top: 40px; padding-bottom: 0px; box-shadow: none; outline: none; cursor: default; background-image: none; background-color: rgba(0, 0, 0, 0);
+		outline-offset: -3px; padding-top: 40px; padding-bottom: 0px; box-shadow: none; outline: none; cursor: default; background-image: none; background-color: rgba(243, 243, 243, 0);
 	}
 	.elegant_6 .send_btn button {
 		background: #59a3fc !important;

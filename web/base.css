@@ -12,7 +12,7 @@ body {
   /*outline-offset: -3px;*/
   outline: none;
   cursor: default;
-  background: url(./images/18_elegant/Hero-Header.png) center no-repeat;
+  background: url(./images/hospital.jpg) center no-repeat;
   background-color: rgb(89, 163, 252);
   background-size: cover;
 }
@@ -112,4 +112,21 @@ h1, h2, h3 {
   -moz-transition: all .2s linear;
   -ms-transition: all .2s linear;
   -o-transition: all .2s linear;
+}
+
+@media (max-device-width:500px) {
+  .showcase {
+    padding-top: 25%;
+  }
+
+  .first_link input {
+    margin: 5%;
+    width: 90% !important;
+  }
+}
+
+@media (min-device-width:500px) and (max-device-width:1024px) {
+  .showcase {
+    padding-top: 25%;
+  }
 }

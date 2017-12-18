@@ -12,7 +12,7 @@ body {
   /*outline-offset: -3px;*/
   outline: none;
   cursor: default;
-  background: url(./images/hospital.jpg) center no-repeat;
+  background: url(./images/banner2-without.jpg) center no-repeat;
   background-color: rgb(89, 163, 252);
   background-size: cover;
 }

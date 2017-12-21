@@ -2,8 +2,8 @@ FROM ubuntu:latest
 
 USER root
 
-RUN apt-get update
-RUN apt-get install -y nginx nodejs
+RUN apt-get update --fix-missing
+RUN apt-get install -y software-properties-common nginx nodejs
 
 # Remove the default Nginx configuration file
 RUN rm -v /etc/nginx/nginx.conf

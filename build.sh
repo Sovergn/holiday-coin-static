@@ -1,2 +1,2 @@
 #!/bin/sh
-docker build -t jesus-coin:latest .
+docker build -t holiday-coin:latest .

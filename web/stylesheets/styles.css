@@ -61,14 +61,16 @@ input {
 }
 
 .holidaycoin-logo {
-  height: 20px !important;
-  padding: 28px 0;
+  height: 22px !important;
+  padding: 22px 0;
   display: inline-block;
+  position: relative;
+  top: 4px;
 }
 
 @media only screen and (max-device-width:480px) {
   .elegant_2 .title {
-    padding-top: 250px !important;
+    padding-top: 195px !important;
     font-size: 40px;
   }
 }

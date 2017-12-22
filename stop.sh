@@ -1,3 +1,3 @@
 #!/bin/sh
-docker kill jesus-coin;
-docker rm jesus-coin;
+docker kill holiday-coin;
+docker rm holiday-coin;

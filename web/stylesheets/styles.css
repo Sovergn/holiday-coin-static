@@ -59,3 +59,9 @@ input {
   -ms-transition: all .2s linear;
   -o-transition: all .2s linear;
 }
+
+.holidaycoin-logo {
+  height: 20px !important;
+  padding: 28px 0;
+  display: inline-block;
+}

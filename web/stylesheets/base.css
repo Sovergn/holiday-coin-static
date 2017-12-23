@@ -282,3 +282,10 @@
 ========================================================== */
 
 .title {font-family: 'Cinzel', serif;}
+
+#childrens-health {background:url(../images/main/childrens-health.jpg) #333 center fixed no-repeat;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+}

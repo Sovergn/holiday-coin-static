@@ -802,21 +802,77 @@ color: rgb(255, 255, 255); font-size: 18px;  background-color: rgb(247, 148, 29)
 
 	.highlight_inner { padding: 0 15px;position: relative;}
 
-	.hl1 {background:url(../images/charities/American_Red_Cross_fires.jpg) #333 center fixed no-repeat;
+	#red-cross {background:url(../images/charities/American_Red_Cross_fires.jpg) #333 center fixed no-repeat;
 		-webkit-background-size:cover;
 		-moz-background-size:cover;
 		-o-background-size:cover;
 		background-size:cover;
 	}
 
-	.hl2 {background:url(../images/main/American_Red_Cross_fires.jpg) #333 center fixed no-repeat;
+	#childrens-health {background:url(../images/charities/childrens-health.jpg) #333 center fixed no-repeat;
 		-webkit-background-size:cover;
 		-moz-background-size:cover;
 		-o-background-size:cover;
 		background-size:cover;
 	}
 
-	.hl3 {background:url(../images/main/American_Red_Cross_fires.jpg) #333 center fixed no-repeat;
+	#parkinsons-foundation {background:url(../images/charities/parkinsons.jpg) #333 center fixed no-repeat;
+		-webkit-background-size:cover;
+		-moz-background-size:cover;
+		-o-background-size:cover;
+		background-size:cover;
+	}
+
+	#habitat-humanity {background:url(../images/charities/habitat.jpg) #333 center fixed no-repeat;
+		-webkit-background-size:cover;
+		-moz-background-size:cover;
+		-o-background-size:cover;
+		background-size:cover;
+	}
+
+	#hunger-project {background:url(../images/charities/hunger-project.jpg) #333 center fixed no-repeat;
+		-webkit-background-size:cover;
+		-moz-background-size:cover;
+		-o-background-size:cover;
+		background-size:cover;
+	}
+
+	#proliteracy {background:url(../images/charities/proliteracy.jpg) #333 center fixed no-repeat;
+		-webkit-background-size:cover;
+		-moz-background-size:cover;
+		-o-background-size:cover;
+		background-size:cover;
+	}
+
+	#unicef {background:url(../images/charities/unicef.jpg) #333 center fixed no-repeat;
+		-webkit-background-size:cover;
+		-moz-background-size:cover;
+		-o-background-size:cover;
+		background-size:cover;
+	}
+
+	#catholic-relief {background:url(../images/charities/crs1.jpg) #333 center fixed no-repeat;
+		-webkit-background-size:cover;
+		-moz-background-size:cover;
+		-o-background-size:cover;
+		background-size:cover;
+	}
+
+	#leukemia-lymphoma {background:url(../images/charities/LLS-blood-cell.jpg) #333 center fixed no-repeat;
+		-webkit-background-size:cover;
+		-moz-background-size:cover;
+		-o-background-size:cover;
+		background-size:cover;
+	}
+
+	#brac {background:url(../images/charities/brac-school.jpg) #333 center fixed no-repeat;
+		-webkit-background-size:cover;
+		-moz-background-size:cover;
+		-o-background-size:cover;
+		background-size:cover;
+	}
+
+	#danish-refugee {background:url(../images/charities/billede-til-vacancies.jpg) #333 center fixed no-repeat;
 		-webkit-background-size:cover;
 		-moz-background-size:cover;
 		-o-background-size:cover;
